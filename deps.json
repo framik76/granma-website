@@ -1,0 +1,31 @@
+{
+    "css": [
+        "node_modules/roboto-fontface/css/roboto-fontface.css"
+    ],
+    "fonts": [
+        "node_modules/roboto-fontface/fonts/*"
+    ],
+    "js": [
+        "babel/polyfill",
+        "change-case",
+        "core-decorators",
+        "history/lib/createHashHistory",
+        "material-ui",
+        "material-ui/lib/styles/colors",
+        "ramda",
+        "react",
+        "react-dom",
+        "react-redux",
+        "react-router",
+        "react-tap-event-plugin",
+        "redux",
+        "redux-form",
+        "redux-logger",
+        "redux-router",
+        "redux-storage",
+        "redux-storage/engines/localStorage",
+        "redux-thunk",
+        "sha256",
+        "validator"
+    ]
+}
